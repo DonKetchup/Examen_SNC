@@ -6,8 +6,8 @@
         <p class="mb-0">Plataforma web desarrollada como proyecto colaborativo de Tópicos Selectos de Desarrollo Web.</p>
       </div>
       <div class="col-md-5 text-md-end">
-        <a href="index.php">Inicio</a>
-        <span class="footer-text">Colaborador</span>
+        <a href="<?php echo $base; ?>index.php">Inicio</a>
+        <a href="<?php echo $base; ?>public/colabo.php">Colaborador</a>
       </div>
     </div>
     <hr>
