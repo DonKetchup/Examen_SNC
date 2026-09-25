@@ -8,9 +8,9 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <div id="navbar"></div>
+    <?php include 'public/encabezado.php'; ?>
 
-      <main>
+  <main>
     <section class="hero-section">
       <div class="container">
         <div class="row align-items-center g-4">
@@ -27,16 +27,9 @@
         </div>
       </div>
     </section>
-
-    
-          
-        </div>
-      </div>
-    </section>
   </main>
 
-  <div id="footer"></div>
+  <?php include 'public/pie.php'; ?>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="js/main.js"></script>
 </body>
 </html>

@@ -6,12 +6,11 @@
         <p class="mb-0">Plataforma web desarrollada como proyecto colaborativo de Tópicos Selectos de Desarrollo Web.</p>
       </div>
       <div class="col-md-5 text-md-end">
-        <a href="../index.html">Inicio</a>
-        <a href="../pages/contacto.html">Contacto</a>
-        <a href="../pages/acerca.html">Acerca del proyecto</a>
+        <a href="index.php">Inicio</a>
+        <span class="footer-text">Colaborador</span>
       </div>
     </div>
     <hr>
-    <p class="small mb-0 text-center">© 2026 Feria Tecnológica. Proyecto académico.</p>
+    <p class="small mb-0 text-center">© 2026 Said Nazario. Examen.</p>
   </div>
 </footer>
